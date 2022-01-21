@@ -1,0 +1,11 @@
+.course-time{
+    background-color:rgb(236, 129, 161);
+    border-radius: 10px;
+    padding: 2px 4px;
+}
+.rating .fa-star{
+    color: orange;
+}
+div>p>a{
+    color: orangered;
+}
